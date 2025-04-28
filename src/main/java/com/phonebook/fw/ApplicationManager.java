@@ -20,6 +20,7 @@ public class ApplicationManager {
 
     UserHelper user;
     ContactHelper contact;
+
     HomePageHelper home;
 
     public ApplicationManager(String browser) {
