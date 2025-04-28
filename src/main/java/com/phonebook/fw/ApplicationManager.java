@@ -23,6 +23,8 @@ public class ApplicationManager {
 
     HomePageHelper home;
 
+
+
     public ApplicationManager(String browser) {
         this.browser=browser;
     }
