@@ -15,6 +15,7 @@ public void ensurePrecondition(){
 }
     @Test
     public void loginPositiveTests(){
+        logger.info("Login with data-->" + UserData.EMAIl+"*****************"+UserData.PASSWORD);
         // click on login link
         app.getUser().clickOnLoginLink();
         // enter email to email field
