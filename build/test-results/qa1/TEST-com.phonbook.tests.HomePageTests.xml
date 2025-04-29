@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.phonbook.tests.HomePageTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-04-28T09:39:25" hostname="494a815a-ced1-47a7-acea-417624aa6651.fritz.box" time="0.013">
+  <properties/>
+  <testcase name="isHomeComponentPresentTest" classname="com.phonbook.tests.HomePageTests" time="0.013"/>
+  <system-out><![CDATA[11:39:25.088 [Test worker] INFO  com.phonbook.tests.TestBase -- Start testisHomeComponentPresentTest[]
+11:39:25.091 [Test worker] INFO  com.phonebook.utils.MyListener -- Before find elementBy.cssSelector: div:nth-child(2)>div>div>h1
+11:39:25.091 [Test worker] INFO  com.phonebook.utils.MyListener -- ************
+11:39:25.143 [Test worker] INFO  com.phonebook.utils.MyListener -- List size1
+11:39:25.143 [Test worker] INFO  com.phonebook.utils.MyListener -- ************
+11:39:25.146 [Test worker] INFO  com.phonebook.utils.MyListener -- Before find elementBy.cssSelector: div:nth-child(2)>div>div>h1
+11:39:25.146 [Test worker] INFO  com.phonebook.utils.MyListener -- ************
+11:39:25.154 [Test worker] INFO  com.phonebook.utils.MyListener -- List size1
+11:39:25.154 [Test worker] INFO  com.phonebook.utils.MyListener -- ************
+11:39:25.161 [Test worker] INFO  com.phonbook.tests.TestBase -- PASSED:HomePageTests.isHomeComponentPresentTest()[pri:0, instance:com.phonbook.tests.HomePageTests@4eb386df]
+11:39:25.161 [Test worker] INFO  com.phonbook.tests.TestBase -- Stop test
+11:39:25.162 [Test worker] INFO  com.phonbook.tests.TestBase -- *******************
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
